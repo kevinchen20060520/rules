@@ -1,0 +1,26 @@
+# > Google
+DOMAIN-SUFFIX,googleapis.com
+# > > AI Studio
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN,aistudio.google.com
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+# > > Antigravity
+DOMAIN,antigravity.google
+DOMAIN,antigravity-unleash.goog
+# > > DeepMind
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+# > > Gemini
+DOMAIN-SUFFIX,gemini.google
+DOMAIN,ai.google.dev
+DOMAIN,bard.google.com
+DOMAIN,gemini.google.com
+DOMAIN,gemini.gstatic.com
+# > > Jules
+DOMAIN,jules.google.com
+# > > NotebookLM
+DOMAIN-KEYWORD,notebooklm.google
+# > > Search Labs
+DOMAIN-KEYWORD,labs.google

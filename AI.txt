@@ -61,3 +61,4 @@ DOMAIN,pplx-res.cloudinary.com
 
 # > Zed
 DOMAIN-SUFFIX,zed.dev
+DOMAIN-SUFFIX,ping0.cc
